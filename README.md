@@ -1,4 +1,4 @@
-Base vode from this [repo][baserepo]
+Base code from this [repo][baserepo]
 
 These event driven applications are built using Spring Boot and Spring Cloud Stream, eliminating no boilerplate messaging code.
 
